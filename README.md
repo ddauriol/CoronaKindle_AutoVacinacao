@@ -1,6 +1,6 @@
-# Vacinação contra Corona Virus
+# Vacinação contra Corona Vírus
 
-**This add-on injects JavaScript into web pages. The `addons.mozilla.org` domain disallows this operation, so this add-on will not work properly when it's run on pages in the `addons.mozilla.org` domain.**
+Esta extensão irá substituir as expressões relacionadas ao corona vírus (covid-19) por um emoticon de seringa.
 
 ## Desafio 333 - '#CoronaKindle'
 
@@ -8,11 +8,15 @@ Desafio Relâmpago #CoronaKindle para limpar a internet do 💉! Você tem uma s
 
 ## Como usar:
 
-Acesse o [GitHub do ddauriol](http://github.com/ddauriol) e baixe a ultimaversão da extenção e descompacte em um local conhecido.
+Acesse o [GitHub do ddauriol](https://github.com/ddauriol/AutoVacinacao) e baixe a última versão da extensão e descompacte em um local conhecido.
+
+<img src="./gifs/GitHub.gif" width="75%">
 
 Em seguida acesse a área de Debugging do Firefox digitando diretamente na barra de endereço: **"about: debugging"**, em seguida clique em **"Load Temporary Add-on"** e selecione o arquivo **_manifest.json_** entre os arquivos baixados.
 
-Pronto, agora basta acessar os seus sites favoritos, que as expressões abaixos serão transformadas em uma 💉:
+<img src="./gifs/LoadExt.gif" width="75%">
+
+Pronto, agora basta acessar os seus sites favoritos, que as expressões abaixo serão transformadas em uma 💉:
 
  - coronavirus
  - coronavírus
@@ -22,3 +26,4 @@ Pronto, agora basta acessar os seus sites favoritos, que as expressões abaixos 
  - covid 19
  - covid
 
+<img src="./gifs/Sample.gif" width="75%">
