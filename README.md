@@ -27,3 +27,8 @@ Pronto, agora basta acessar os seus sites favoritos, que as expressões abaixo s
  - covid
 
 <img src="./gifs/Sample.gif" width="75%">
+
+### Todo
+
+ - [x] Firefox
+ - [ ] Chrome
