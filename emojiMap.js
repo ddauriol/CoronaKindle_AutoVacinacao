@@ -1,7 +1,8 @@
 /*
- Mapa das palavras a serem substituidas
+ Este arquivo irácriar um mapa para substituição das palavras.
 */
 
+// Sentenças a serem localizadas e substituidas
 let dictionary = new Map();
 dictionary.set('coronavirus', '💉');
 dictionary.set('Coronavirus', '💉');
